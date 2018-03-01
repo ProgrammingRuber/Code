@@ -1,0 +1,10 @@
+//This program will spit out a string: 'Hello'.
+#include <iostream>
+using namespace std;
+int main()
+{
+
+cout << "Hello Programmer." << endl;
+
+return 0;
+}
